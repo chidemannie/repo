@@ -1,48 +1,34 @@
 # Coursera Data Science Capstone
 
-**Jeffrey M. Hunter**
+**Emmanuel I. Benyeogor**
 
-July 28, 2019
+Feb 02, 2023
 
 ## Introduction
 
-Course repository for the Data Science Specialization Capstone offered
-through Coursera from Johns Hopkins University.
+Repository of courses for the Data Science Specialization Capstone provided by [Coursera from Johns Hopkins University](https://www.coursera.org/learn/data-science-project/home/welcome)
 
 ### Course Dataset
 
-The training data set listed below will be used to get started and will be the
-basis for most of the capstone.
+Starting point and the most of the capstone will be based on the training data set supplied below.
 
 * [Capstone Dataset](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
 
 ### Milestone Report
 
-Week 2 of the Data Science Capstone project covers *Exploratory Data Analysis*
-and *Modeling*. The goal is to develop an understanding of the various
-statistical properties of the data set that can be later used when building the
-prediction model for the final data product.
+*Exploratory data analysis* and *Modeling* are covered in Week 2 of the Data Science Capstone project. The objective is to get knowledge of the data set's many statistical characteristics so that you may utilize it to design a prediction model for the final data product.
 
-At the end of week 2, students are asked to create a Milestone Report that
-includes a description of the major features of the training data based on our
-exploratory data analysis and to summarize our plans for creating the text
-predictive model.
+Students are required to produce a Milestone Report by the conclusion of week 2 that contains a summary of our plans for developing the text predictive model as well as a description of the key characteristics of the training data based on our exploratory data analysis.
 
-##### Links
-
-* Milestone Report available on RPubs: <a target="_blank"  href="http://rpubs.com/OracleJavaNet/coursera-data-science-milestone-report">http://rpubs.com/OracleJavaNet/coursera-data-science-milestone-report</a>
+* [Milestone Report available on RPubs](https://rpubs.com/chidemannie/989797)
 
 ### Final Project Submission
 
-The goal for this final project assignment is to implement a learning model for
-text prediction. Using the text prediction algorithm, create a product in Shiny
-that provides a user interface that can be accessed by users.
+The objective of this final project assignment is to put a text prediction learning model into practice. Create a Shiny product with a user interface that people can access using the text prediction algorithm.
 
-This repository contains the `ui.R` and `server.R` source code files for the
-developed Shiny application as well as the RStudio Presenter files.
+The source code files "ui.R" and "server.R" as well as the RStudio Presenter files for the created Shiny application may be found in this repository.
 
-The Shiny application is hosted on shinyapps.io and the Presentation (slides)
-are available on RPubs.
+On shinyapps.io, the Shiny application is hosted, while RPubs hosts the Presentation's slides.
 
 ##### Links
 
